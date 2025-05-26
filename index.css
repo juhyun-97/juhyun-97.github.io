@@ -22,7 +22,7 @@ header nav {
 header nav a {
   display: flex;
   align-items: center;
-  padding: 5px;
+  padding: 10px;
 }
 section {
   background-color: rgb(219, 218, 202);
